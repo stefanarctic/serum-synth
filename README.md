@@ -72,4 +72,3 @@ audio can start). Use `npm run build` for a production build.
 
 The UI sends normalized (0..1) parameter values to the worklet over its message
 port; the worklet streams meter/voice data back at frame rate.
-"# serum-synth" 
